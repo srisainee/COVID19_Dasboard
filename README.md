@@ -8,6 +8,7 @@ A PowerBI Dashboard to visualise and analyse the daily numbers of various aspect
 
 The data for the dashbaord was collected from Our World in Data and the COVID-19 surveillance dashboard of the University of Virginia. 
 OWID - https://github.com/owid/covid-19-data/tree/master/public/data
+
 UV - https://nssac.bii.virginia.edu/covid-19/dashboard/
 
 Visualising the COVID-19 data and to analyse it is important to understand the impact of the pandemic and to be able to take data-driven and informed response decisions. The use of the dashboard can extend to a broad range of audiences including researchers, health officials, scientists and general public. The dashboard will be a demonstration for all the important COVID-19 statistics to help them draw inferences from the data. It will also assist as the status update of the pandemic across the world. 
