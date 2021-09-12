@@ -27,3 +27,5 @@ From this information an insight can be drawn that world is being vaccinated at 
 
 Insights can be drawn for every country individually and also be compared to see how different countries are performing against the disease. With the date filter, the data can be analysed within the interested period of time. 
 
+
+![screenshot of web app](/Screenshot.png)
