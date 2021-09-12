@@ -21,7 +21,9 @@ The dashboard was last updated on 07/09/2021
 
 The dashboard aims to visualise the important elements of COVID-19 incluing the daily new cases, total cases, total deaths, estimated active cases and estimated active cases. The dashboard also visualises vaccination data incluing the percentage of people vaccinated at least once, fully vaccinated and the vaccines provided by the country with the total doses administered. 
 
-The dashboard reports that the world poulation is 7.9 billion and 2.8% of the population has been affected by the pandemic. around 75% of the total cases acquired were recovered and less than 20% of the cases are active. More than 50% of the world population is vaccinatedat least once and 40% of the world has been fully vaccinated. The most common vaccine is Pfizer. The 1 year daily cases forecasts show steady pattern indicating the daily new cases would not go down within the period. 
+The dashboard reports that the world poulation is 7.9 billion and 2.8% of the population has been affected by the pandemic. around 75% of the total cases acquired were recovered and less than 20% of the cases are active. More than 50% of the world population is vaccinated at least once and 40% of the world has been fully vaccinated. The most common vaccine is Pfizer. The 1 year daily cases forecasts show steady pattern indicating the daily new cases would not go down within the period. 
 
-Insights can be drawn for every country and also be compared to see how different countries are performing against the disease. With the date filter, the data can be analysed within the interested period of time. 
+From this information an insight can be drawn that world is being vaccinated at a steady pace and yet the daily cases are prdicted to be increasing. We can conclude that inspite of being vaccinated, rigourous actions like curfew and lockdown should be implemented to restrict mobility and social interaction to reduce the spread of the virus. It is important to be double dosed and isolated to quickly be able to recover.  
+
+Insights can be drawn for every country individually and also be compared to see how different countries are performing against the disease. With the date filter, the data can be analysed within the interested period of time. 
 
